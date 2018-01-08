@@ -1,0 +1,76 @@
+
+
+sistemas para visualizar y administrar las fuentes instaladas ó no
+
+
+	http://www.emenia.es/como-utilizar-un-fondo-aleatorio-para-nuestra-web/
+
+	http://articulo.mercadolibre.com.ve/MLV-455129726-lente-objetivo-nikkor-55mm-_JM
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+ver las fuentes instaladas en tu pc, de forma online
+
+	http://wordmark.it/
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+WinFontsView v1.10:
+
+	_offial site: http://nirsoft.net/utils/windows_fonts_viewer.html
+
+	
+	_éste es un programa ejucutable con el cuál podremos visualizar la fuentes que tenemos instaladas en 
+	nuestro pc de forma rápida y sencilla
+
+
+	_éste programa no requiere ser instalado, lo ejecutamos directamente y podremos acceder a nuestras fuentes
+
+	instaladas
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+myfont book:
+
+
+	_official site: http://myfontbook.com/
+
+
+	_ésta es otra opción online, la cuál, escaneará nuestro sistema para poder visualizar nuevas fuentes en 
+	línea
+
+
+	_la diferencia con "Win Font View", es que ésta no es versión web, directamente si no más bien es una app
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+hFont Viewer
+
+	_official site: http://www.ampsoft.net/utilities/FontViewerEsp.php
+
+
+	_éste es un programa ejucutable con el cuál podremos visualizar la fuentes que tenemos instaladas en 
+	nuestro pc de forma rápida y sencilla
+
+
+	_éste programa no requiere ser instalado, lo ejecutamos directamente y podremos acceder a nuestras fuentes
+
+	instaladas
+
+
+
+
+
